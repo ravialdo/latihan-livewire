@@ -1,4 +1,4 @@
-## Latihan Livewire Pada Framework Laravel
+## Latihan Livewire Dengan Framework Laravel
 
 ## Install Project Via Git
 
